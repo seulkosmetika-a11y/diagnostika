@@ -479,7 +479,7 @@ export default function App() {
                 cursor: "pointer",
                 marginTop: 24,
               }}
-              onClick={() => window.open("https://t.me/ni_ekaterina_psy", "_blank")}
+              onClick={() => window.open("https://t.me/ni_ekaterinav", "_blank")}
             >
               ЗАПИСАТЬСЯ НА РАЗБОР
             </button>
